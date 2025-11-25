@@ -1,0 +1,25 @@
+C:\Users\Nicat\Desktop\C#\Card Information\bin\Debug\net8.0-windows\Card Information.exe
+C:\Users\Nicat\Desktop\C#\Card Information\bin\Debug\net8.0-windows\Card Information.deps.json
+C:\Users\Nicat\Desktop\C#\Card Information\bin\Debug\net8.0-windows\Card Information.runtimeconfig.json
+C:\Users\Nicat\Desktop\C#\Card Information\bin\Debug\net8.0-windows\Card Information.dll
+C:\Users\Nicat\Desktop\C#\Card Information\bin\Debug\net8.0-windows\Card Information.pdb
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card_Information.Form1.resources
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card_Information.Properties.Resources.resources
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.csproj.GenerateResource.cache
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.dll
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\refint\Card Information.dll
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.pdb
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\Card Information.genruntimeconfig.cache
+C:\Users\Nicat\Desktop\C#\Card Information\obj\Debug\net8.0-windows\ref\Card Information.dll
+C:\Users\LENOVO\Downloads\CreditCardValidator-main\obj\Debug\net8.0-windows\Card Information.dll
+C:\Users\LENOVO\Downloads\CreditCardValidator-main\obj\Debug\net8.0-windows\refint\Card Information.dll
+C:\Users\LENOVO\Downloads\CreditCardValidator-main\obj\Debug\net8.0-windows\Card Information.pdb
+C:\Users\Mahir\source\repos\card_information\obj\Debug\net8.0-windows\Card_Information.Form1.resources
+C:\Users\Mahir\source\repos\card_information\obj\Debug\net8.0-windows\Card Information.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\card_information\obj\Debug\net8.0-windows\Card Information.dll
+C:\Users\Mahir\source\repos\card_information\obj\Debug\net8.0-windows\refint\Card Information.dll
+C:\Users\Mahir\source\repos\card_information\obj\Debug\net8.0-windows\Card Information.pdb
